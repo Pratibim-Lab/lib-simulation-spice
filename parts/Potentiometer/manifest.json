@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/Potentiometer:Potentiometer",
+  "name": "Potentiometer",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/Potentiometer.kicad_sym",
+  "description": "Potentiometer for Simulation",
+  "datasheet": "",
+  "keywords": "resistor variable spice sim",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/Potentiometer/",
+  "part_path": "parts/Potentiometer",
+  "symbol_file": "parts/Potentiometer/Potentiometer.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:41.036Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/0:0",
+  "name": "0",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/0.kicad_sym",
+  "description": "0V reference potential for simulation",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#subsec_Circuit_elements__device",
+  "keywords": "simulation",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/0/",
+  "part_path": "parts/0",
+  "symbol_file": "parts/0/0.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:40.864Z"
+}

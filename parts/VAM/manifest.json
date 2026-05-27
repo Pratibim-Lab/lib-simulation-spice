@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/VAM:VAM",
+  "name": "VAM",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/VAM.kicad_sym",
+  "description": "Voltage source, AM",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Independent_Sources_for",
+  "keywords": "simulation amplitude modulated",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/VAM/",
+  "part_path": "parts/VAM",
+  "symbol_file": "parts/VAM/VAM.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:41.051Z"
+}

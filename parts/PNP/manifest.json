@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/PNP:PNP",
+  "name": "PNP",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/PNP.kicad_sym",
+  "description": "Bipolar transistor symbol for simulation only, substrate tied to the emitter",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs",
+  "keywords": "simulation",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/PNP/",
+  "part_path": "parts/PNP",
+  "symbol_file": "parts/PNP/PNP.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:41.033Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/GSOURCE:GSOURCE",
+  "name": "GSOURCE",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/GSOURCE.kicad_sym",
+  "description": "Voltage-controlled current source symbol for simulation only",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#subsec_Gxxxx__Linear_Voltage_Controlled",
+  "keywords": "simulation vccs dependent",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/GSOURCE/",
+  "part_path": "parts/GSOURCE",
+  "symbol_file": "parts/GSOURCE/GSOURCE.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:40.894Z"
+}

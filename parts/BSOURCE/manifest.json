@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/BSOURCE:BSOURCE",
+  "name": "BSOURCE",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/BSOURCE.kicad_sym",
+  "description": "Arbitrary behavioral voltage or current source for simulation only",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Non_linear_Dependent_Sources",
+  "keywords": "simulation dependent",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/BSOURCE/",
+  "part_path": "parts/BSOURCE",
+  "symbol_file": "parts/BSOURCE/BSOURCE.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:40.871Z"
+}

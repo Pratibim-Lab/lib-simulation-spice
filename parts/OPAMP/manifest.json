@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/OPAMP:OPAMP",
+  "name": "OPAMP",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/OPAMP.kicad_sym",
+  "description": "Operational amplifier, single",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec__SUBCKT_Subcircuits",
+  "keywords": "simulation",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/OPAMP/",
+  "part_path": "parts/OPAMP",
+  "symbol_file": "parts/OPAMP/OPAMP.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:41.002Z"
+}

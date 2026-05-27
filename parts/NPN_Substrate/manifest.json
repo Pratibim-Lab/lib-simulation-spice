@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/NPN_Substrate:NPN_Substrate",
+  "name": "NPN_Substrate",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/NPN_Substrate.kicad_sym",
+  "description": "Bipolar transistor symbol for simulation only, with substrate pin",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_BJTs",
+  "keywords": "simulation",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/NPN_Substrate/",
+  "part_path": "parts/NPN_Substrate",
+  "symbol_file": "parts/NPN_Substrate/NPN_Substrate.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:40.988Z"
+}

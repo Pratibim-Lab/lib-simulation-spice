@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/IBIS_DEVICE:IBIS_DEVICE",
+  "name": "IBIS_DEVICE",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/IBIS_DEVICE.kicad_sym",
+  "description": "Device model for IBIS files. Pin 3 can be used to monitor the die potential",
+  "datasheet": "https://ibis.org",
+  "keywords": "Simulation IBIS",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/IBIS_DEVICE/",
+  "part_path": "parts/IBIS_DEVICE",
+  "symbol_file": "parts/IBIS_DEVICE/IBIS_DEVICE.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:40.916Z"
+}

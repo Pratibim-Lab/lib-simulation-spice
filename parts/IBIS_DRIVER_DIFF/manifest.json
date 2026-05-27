@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/IBIS_DRIVER_DIFF:IBIS_DRIVER_DIFF",
+  "name": "IBIS_DRIVER_DIFF",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/IBIS_DRIVER_DIFF.kicad_sym",
+  "description": "Driver model for IBIS files. Pin 3 can be used to monitor the die potential.",
+  "datasheet": "https://ibis.org",
+  "keywords": "Simulation IBIS",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/IBIS_DRIVER_DIFF/",
+  "part_path": "parts/IBIS_DRIVER_DIFF",
+  "symbol_file": "parts/IBIS_DRIVER_DIFF/IBIS_DRIVER_DIFF.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:40.919Z"
+}

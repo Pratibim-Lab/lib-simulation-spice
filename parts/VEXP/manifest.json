@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/VEXP:VEXP",
+  "name": "VEXP",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/VEXP.kicad_sym",
+  "description": "Voltage source, exponential",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Independent_Sources_for",
+  "keywords": "simulation",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/VEXP/",
+  "part_path": "parts/VEXP",
+  "symbol_file": "parts/VEXP/VEXP.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:41.062Z"
+}

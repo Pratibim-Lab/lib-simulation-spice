@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/D:D",
+  "name": "D",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/D.kicad_sym",
+  "description": "Diode for simulation or PCB",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_DIODEs",
+  "keywords": "simulation",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/D/",
+  "part_path": "parts/D",
+  "symbol_file": "parts/D/D.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:40.877Z"
+}

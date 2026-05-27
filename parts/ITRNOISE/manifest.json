@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/ITRNOISE:ITRNOISE",
+  "name": "ITRNOISE",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/ITRNOISE.kicad_sym",
+  "description": "Current source, transient noise",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#subsec_Transient_noise_source",
+  "keywords": "simulation",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/ITRNOISE/",
+  "part_path": "parts/ITRNOISE",
+  "symbol_file": "parts/ITRNOISE/ITRNOISE.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:40.962Z"
+}

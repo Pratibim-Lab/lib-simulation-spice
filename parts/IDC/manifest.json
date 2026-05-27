@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/IDC:IDC",
+  "name": "IDC",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/IDC.kicad_sym",
+  "description": "Current source, DC",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Independent_Sources_for",
+  "keywords": "simulation",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/IDC/",
+  "part_path": "parts/IDC",
+  "symbol_file": "parts/IDC/IDC.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:40.928Z"
+}

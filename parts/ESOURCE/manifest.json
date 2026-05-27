@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/ESOURCE:ESOURCE",
+  "name": "ESOURCE",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/ESOURCE.kicad_sym",
+  "description": "Voltage-controlled voltage source symbol for simulation only",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#subsec_Exxxx__Linear_Voltage_Controlled",
+  "keywords": "simulation vcvs dependent",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/ESOURCE/",
+  "part_path": "parts/ESOURCE",
+  "symbol_file": "parts/ESOURCE/ESOURCE.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:40.884Z"
+}

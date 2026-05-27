@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/NMOS_Substrate:NMOS_Substrate",
+  "name": "NMOS_Substrate",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/NMOS_Substrate.kicad_sym",
+  "description": "N-channel MOSFET symbol with substrate (bulk) pin",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs",
+  "keywords": "mosfet nmos simulation",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/NMOS_Substrate/",
+  "part_path": "parts/NMOS_Substrate",
+  "symbol_file": "parts/NMOS_Substrate/NMOS_Substrate.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:40.973Z"
+}

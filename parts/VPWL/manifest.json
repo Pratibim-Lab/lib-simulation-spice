@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/VPWL:VPWL",
+  "name": "VPWL",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/VPWL.kicad_sym",
+  "description": "Voltage source, piece-wise linear",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Independent_Sources_for",
+  "keywords": "simulation",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/VPWL/",
+  "part_path": "parts/VPWL",
+  "symbol_file": "parts/VPWL/VPWL.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:41.079Z"
+}

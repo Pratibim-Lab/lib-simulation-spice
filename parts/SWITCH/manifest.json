@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/SWITCH:SWITCH",
+  "name": "SWITCH",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/SWITCH.kicad_sym",
+  "description": "Voltage controlled switch symbol for simulation only",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#subsec_Switches",
+  "keywords": "simulation",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/SWITCH/",
+  "part_path": "parts/SWITCH",
+  "symbol_file": "parts/SWITCH/SWITCH.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:41.042Z"
+}

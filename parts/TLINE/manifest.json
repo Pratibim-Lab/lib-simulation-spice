@@ -1,0 +1,17 @@
+{
+  "id": "Simulation_SPICE/TLINE:TLINE",
+  "name": "TLINE",
+  "library": "Simulation_SPICE",
+  "file": "Simulation_SPICE.kicad_symdir/TLINE.kicad_sym",
+  "description": "Lossless transmission line, for simulation only",
+  "datasheet": "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#sec_Lossless_Transmission_Lines",
+  "keywords": "lossless transmission line characteristic impedance",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-simulation-spice@master/parts/TLINE/",
+  "part_path": "parts/TLINE",
+  "symbol_file": "parts/TLINE/TLINE.kicad_sym",
+  "source_library": "Simulation_SPICE.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:41.044Z"
+}
